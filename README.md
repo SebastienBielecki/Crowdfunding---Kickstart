@@ -12,3 +12,6 @@ If more than 50% of the contributors approve the spending request, it is approve
 
 The project is implemented with 2 smart contracts. The first one is a factory that creates instances of the second contract, that manages each campaign.
 The front-end is implemented with React using Next.js framework. Styling is done with Semantic UI react. 
+
+You can try the App on https://kickstarter-clone2.herokuapp.com/
+You need a Metamask Wallet, and don't forget to connect to the Rinkeby network!
